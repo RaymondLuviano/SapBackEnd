@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "b5be765e-cd61-4217-bed2-b9034d9895be",
+		"name": "personalendpoints",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46238502",
+		"_collection_link": "https://rayluvianosteam.postman.co/workspace/Team-Workspace~baa33fda-a1d9-407d-8ae6-516f28b8377a/collection/46238502-b5be765e-cd61-4217-bed2-b9034d9895be?action=share&source=collection_link&creator=46238502"
+	},
+	"item": [
+		{
+			"name": "login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "dashboard/summary",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "dashboard/transfers-pie",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "dashboard/top-expenses",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "accout-balances",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
